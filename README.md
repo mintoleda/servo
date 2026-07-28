@@ -1,6 +1,6 @@
 # run
 ```bash
-# should use a venv but technically optional
+# should use a venv
 python -m venv .venv
 source .venv/bin/activate
 
